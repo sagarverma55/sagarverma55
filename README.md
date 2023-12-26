@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarverma55
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning JavaScrpt
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me @svsagar451758@gmail.com
 
